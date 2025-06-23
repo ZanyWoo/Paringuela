@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Godot<br>🎯 Goals: Learn Godot<br>🎲 Fun fact: I have a really good game i've already made a long ago on another platform.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Godot<br>🎯 Goals: Learn Godot<br>🎲 Fun fact: I have a really good game i made a long ago on another platform.</p>
 
 ###
 
